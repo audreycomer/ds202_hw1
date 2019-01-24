@@ -1,0 +1,27 @@
+---
+title: "hw1"
+author: "Audrey Comer"
+date: "1/21/2019"
+output: html_document
+---
+```{r}
+
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# version
+```
+##What I Consider Data Science
+One thing I consider as data science is analysis and machine learning in **marketing and advertising**. Data science can be used in those fields to find and analyze target audiences, to guide decisions about marketing strategies, to predict customer behavior based on data patterns, and much more. Data is a really important aspect of marketing. 
+[Here is an example of a data visualization pertaining to marketing (in this case retail specifically).](https://www.snipp.com/wp-content/uploads/2017/07/whats-in-your-basket-3b-1.png)
+
+###What version of GitHub?
+2.20.1
+
+###Github username
+audreycomer
+
+###email
+akcomer@iastate.edu
+
