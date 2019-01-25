@@ -1,0 +1,15 @@
+---
+title: "partner"
+output: html_document
+---
+
+Partner name: Allegra Frickel (username acfrick)
+Owner name: Audrey Comer (username audreycomer)
+
+Audrey committed her hw1.html file
+Commit ID: 69686e369e9c5c57f9f3a1ba0dd803e13ed336d1
+
+I was able to open and knit the owner's file.
+
+My tip would be to separate was is a command and what isn't when listing the steps. Also there seemed to be a lot of supplemental information on the slides, which I am sure will be useful in the future, but it was a bit overwhelming at first. I also was confused about what the difference between a repository and a directory was. One way I remember what the remote repository is is an online file sharing space, where you can access files on multiple devices.
+
